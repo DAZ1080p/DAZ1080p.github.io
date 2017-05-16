@@ -37,7 +37,7 @@ var Particle = function () {
   }
 
   Particle.prototype.randomColor = function randomColor() {
-    var colors = ["#FF5E4C", "#FFFFFF"];
+    var colors = ["#f0fbfb", "#04fefe"];
     return colors[this.randomIntFromInterval(0, colors.length - 1)];
   };
 
