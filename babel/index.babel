@@ -17,7 +17,7 @@ let canvas = c1.context;
 
 // $("body").append(tela);
 $("body").append(c3.canvas);
-writeText(c2.canvas, c2.context, "Think\nDesign, Code\nRepeat")
+writeText(c2.canvas, c2.context, "Think\nDesign, SERVICENOW")
 
 
 class Particle{
